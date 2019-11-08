@@ -1,7 +1,5 @@
 # Parse Int, the module
 
-[![Build Status](https://travis-ci.org/ericcatlin/parse-int.svg?branch=master)](https://travis-ci.org/ericcatlin/parse-int) [!
-
 Because even built-ins need competition
 
 # Features
