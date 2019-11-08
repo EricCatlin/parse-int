@@ -1,19 +1,15 @@
-# NPM Module Boilerplate
+# Parse Int, the module
 
-[![Build Status](https://travis-ci.org/ericcatlin/parse-int.svg?branch=master)](https://travis-ci.org/ericcatlin/parse-int) [![dependencies Status](https://david-dm.org/ericcatlin/parse-int/status.svg)](https://david-dm.org/ericcatlin/parse-int) [![devDependencies Status](https://david-dm.org/ericcatlin/parse-int/dev-status.svg)](https://david-dm.org/ericcatlin/parse-int?type=dev) [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](https://opensource.org/licenses/MIT)
+[![Build Status](https://travis-ci.org/ericcatlin/parse-int.svg?branch=master)](https://travis-ci.org/ericcatlin/parse-int) [!
 
-**Start developing your NPM module in seconds** ✨
-
-Readymade boilerplate setup with all the best practices to kick start your npm/node module development.
-
-Happy hacking =)
+Because even built-ins need competition
 
 # Features
 
 * **ES6/ESNext** - Write _ES6_ code and _Babel_ will transpile it to ES5 for backwards compatibility
 * **Test** - _Mocha_ with _Istanbul_ coverage
-* **Lint** - Preconfigured _ESlint_ with _Airbnb_ config
-* **CI** - _TravisCI_ configuration setup
+* **Lint** - _ESlint_ with _Airbnb_ config
+* **CI** - _TravisCI_ configuration
 * **Minify** - Built code will be minified for performance
 
 # Commands
@@ -30,8 +26,3 @@ Happy hacking =)
 
 # Installation
 Just clone this repo and remove `.git` folder.
-
-
-# License
-
-MIT © Dinesh Pandiyan
